@@ -1,0 +1,53 @@
+body
+{
+    background-image: url("../img/selva.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p
+{
+    background-color: #38BDB6;
+}
+table
+{
+    border-collapse: collapse;
+}
+a
+{
+    width: 50px;
+    font-family: Arial, helvetica, sans-serif;
+    font-weight: 700;
+    background-color: black;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 150px 130px;
+    color: #fff;
+
+}
+button
+{
+    background-color: transparent;
+    border: transparent;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+table
+{
+    border: 5px solid #000;
+}
+td
+{
+    border: 1px solid #000;
+    border-radius: 10px;
+
+    padding: 20px;
+    background-color: #ccc;
+}
+.botonOculto
+{
+    color:transparent;
+    background-color: transparent;
+}
+.botonOculto a
+{
+}

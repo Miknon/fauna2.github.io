@@ -1,0 +1,66 @@
+body
+{
+    background-image: url("../img/panal_abejas.jpg"), url("../img/fondoDeMar1.png");
+    background-position: top, center;
+    background-repeat: no-repeat, no-repeat;
+}
+button
+{
+    background-color: rgb(248, 217, 38);
+    color: #ffea55;
+}
+a
+{
+    color: #5f5715;
+    font-family: comic-sans;
+}
+.texto
+{
+    font-size: 40px;
+    margin: 20px;
+    padding: 15px;
+    background: rgb(232, 189, 49);
+    border-radius: 30px 50px 0 0;
+    font-family: cursive;
+    color: rgb(39, 38, 37);
+}
+
+.centrado
+{
+    font-size: 40px;
+    margin: 20px;
+    padding: 15px;
+    background: rgb(232, 189, 49);
+    border-radius: 30px 50px 0 0;
+    font-family: cursive;
+    color: rgb(39, 38, 37);
+    text-align: center;
+    border-radius: 5000px 5000px 0 0;
+    background-size: 800%;
+}
+.abeja
+{
+
+    border: 5px solid #ffea55;
+    border-radius: 40px 0 40px 0;
+}
+.abejaCuerpo
+{
+    text-align: center;
+}
+.abejaCuerpo p
+{
+    padding: 20px;
+    font-size: 40px;
+    margin: 20px;
+    padding: 15px;
+    background: rgb(232, 189, 49);
+    border-radius: 30px 50px 0 0;
+    font-family: cursive;
+    background-position-x: center;
+}
+.abejaCuerpo img
+{
+    border: 5px solid yellow;
+    border-radius: 50px;
+}

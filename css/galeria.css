@@ -1,0 +1,71 @@
+body
+{
+    background-image: url(../img/corales.jpg);
+    background-size: cover
+}
+
+button
+{
+    background-image: url("../img/estrella1.jpg");
+}
+
+.texto
+{
+    text-align: center;
+    font-size: 50px;
+}
+.textoDeDelfin
+{
+    background: rgb(245,245,245);
+  background: linear-gradient(90deg, rgba(245,245,245,1) 23%, rgb(150, 148, 148) 48%,  rgb(150, 148, 148) 69%, rgba(255,242,242,1) 89%);
+  border-collapse: 4px;
+  border-radius: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+.textoDeOrca
+{
+  background: rgb(245,245,245);
+  background: linear-gradient(90deg, rgba(245,245,245,1) 23%, rgba(0,0,0,1) 48%, rgba(0,0,0,1) 69%, rgba(255,242,242,1) 89%);
+  border-collapse: 4px;
+  border-radius: 50px;
+  font-size: 50px;
+  text-align: center;
+  color: #ffff;
+}
+
+.textoDeAjolote
+{
+   text-align: center;
+   background: #F0AAC4;
+   border-collapse: 4px;
+   border-radius: 50px;
+   font-size: 50px;
+}
+
+.textoDeEstrella
+{
+    background-color: #B86166;
+    border-radius: 500px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.textoDeTortuga
+{
+    background: linear-gradient(90deg, rgb(247, 213, 101), rgb(102, 253, 56) 50%,rgb(102, 253, 56) 69% , rgb(247, 213, 101) );
+    text-align: center;
+    background-color: #9df093;
+    border-collapse: 4px;
+    border-radius: 50px;
+    font-size: 50px;
+}
+
+.textoDePulpo
+{
+  background: #ffb051;
+  border-collapse: 4px;
+  border-radius: 50px;
+  font-size: 50px;
+  text-align: center;
+}
