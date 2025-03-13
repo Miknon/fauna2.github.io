@@ -1,8 +1,7 @@
 body
 {
-    background-image: url("../img/panal_abejas.jpg"), url("../img/fondoDeMar1.png");
-    background-position: top, center;
-    background-repeat: no-repeat, no-repeat;
+    background-image: url("../img/panal_abejas.jpg");
+    background-repeat: repeat;
 }
 button
 {
